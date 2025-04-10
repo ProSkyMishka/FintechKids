@@ -81,7 +81,7 @@ FintechKids — это интерактивное iOS-приложение, ко
 
 <tr>
 <td>
-<img src="https://github.com/user-attachments/assets/46bf1874-e59b-495c-a88a-2a37124986e8" width="300">
+<img src="https://github.com/user-attachments/assets/9822c43a-cee2-4ded-abff-fb8a42be1e26" width="300">
 </td>
 <td>
 
