@@ -116,7 +116,7 @@ FintechKids — это интерактивное iOS-приложение, ко
 | Егор  | Профиль, SplashScreen | SplashScreen.swift; AvatarPickerView.swift; EditableField.swift; ProfileSettingsView.swift; SettingsButtonStyle.swift; UserSettingsManager.swift |
 | Тагир |  |   |
 | Данил | Модуль чата, интеграция swiftData, интеграция с ИИ сервисом| ChatScreen, ChatViewModel, Modifiers |
-| Миша  |  |  |
+| Миша  |  Экран целей, Навигацию (таббар), кроппинг изображений | FlipOpacity, CustomProgressView, CustomTextField, CropView, CustomImagePicker, CustomImageEditButton, CustomGradient, BackSideGoalCardView, FrontSideGoalCardView, GoalCardView, GoalsView, GoalCardRow, GoalsViewModel, GoalViewModel, GoalModel, CodableModels, ContentView, TabBar, DateExtension, ViewExtensionForLoadImage |
 | Марго | Игра Карточки, DI, Tests | ScreenFactory.swift; Storage.swift; CardGameRound.swift; CardGameViewModel.swift; CardGameView.swift; CardView.swift; CardGameViewModelTests.swift; FintechKidsUITests.swift
 
 ## 🔌 Настройка API ключа для работы моделей в приложении
